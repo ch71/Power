@@ -1,0 +1,9 @@
+name: Power
+version: 0.0
+main: wut.cholo71796.Power.Power
+description: Effectively a regenerating currency plugin.
+author: cholo71796
+commands:
+    power:
+        aliases: [p, po, pow, energy]
+         
